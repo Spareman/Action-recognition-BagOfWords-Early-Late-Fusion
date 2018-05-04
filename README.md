@@ -1,7 +1,7 @@
 # Action-recognition-BagOfWords-Early-Late-Fusion
 Video classification using the UCF101 dataset for action recognition. We extract SIFT, MFCC and STIP features from the videos, we encode them using the Bag of Words framework and we implement early and late feature fusion using different combinations of the feature types available.
 
-The code is part of my Bachelor's thesis submited at the School of Electrical and Computer Engineering of the National Technological University of Athens, with the title "Video Action Recognition using Bag of Words and feature fusion".
+The code is part of my Diploma's thesis submited at the School of Electrical and Computer Engineering of the National Technological University of Athens, with the title "Video Action Recognition using Bag of Words and feature fusion".
 
 # Abstract
 Nowadays, Artificial Intelligence enters our everyday lives in a rapid pace and the field of Computer Vision has experienced great growth, while research constantly improves the way that computers understand and analyze the visual clues which they receive. Multimedia Action Recognition has received attention of the research community. Its aim is to develop a system that detects human actions that appear in a video, picture etc. The term “action” means a basic person-related interaction with meaning and it might include the simplest actions, like “Walking”, or maybe more complex, like “Playing Soccer”.
